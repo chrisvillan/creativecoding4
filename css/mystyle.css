@@ -1,4 +1,37 @@
+#mainNav .navbar-brand {
+  /* color: red;
+  font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive;
+  position: relative;
+  left:300px; */
+}
+
+#mainNav .navbar-nav .nav-item .nav-link {
+  /* color: blue;
+  font-size: 20px; */
+
+}
 h1{
-  color:
-  font-size:
+  /* position:relative;
+  top: 200px;
+  left: 200px;
+  color: blue; */
+}
+p1{
+  color:green;
+}
+
+p2{
+  color: purple;
+}
+
+p3{
+  color:orange;
+}
+
+section h2.section-heading {
+  color:green;
+}
+
+section h3.section-subheading {
+  color:blue;
 }
