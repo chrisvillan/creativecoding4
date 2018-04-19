@@ -1,31 +1,46 @@
+/*
+color:
+fontsize: px;
+position: relative;
+left; px;
+right px;
+ */
+
+/*Top left Button*/
 #mainNav .navbar-brand {
-  /* color: red;
-  font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive;
-  position: relative;
-  left:300px; */
+
+
 }
 
+/*Navbar*/
 #mainNav .navbar-nav .nav-item .nav-link {
-  /* color: blue;
-  font-size: 20px; */
+
 
 }
 
+/*Introduction Header*/
 introhead{
-  font-size:50px;
-
-}
-
-
-
-
-
-h1{
-  /* position:relative;
-  top: 200px;
+  position: relative;
+  font-size:30px;
   left: 200px;
-  color: blue; */
+  top: 40px;
+
 }
+
+
+/*Section Headers */
+section h2.section-heading {
+  color:green;
+}
+
+
+/*Section subheaders*/
+section h3.section-subheading {
+  color:blue;
+}
+
+
+/*Who am I ?*/
 p1{
   color:green;
 }
@@ -36,12 +51,4 @@ p2{
 
 p3{
   color:orange;
-}
-
-section h2.section-heading {
-  color:green;
-}
-
-section h3.section-subheading {
-  color:blue;
 }
