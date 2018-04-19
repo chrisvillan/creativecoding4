@@ -40,6 +40,12 @@ section h3.section-subheading {
 }
 
 
+/*-------------- Section 1 ----------------*/
+
+.service-heading{
+  color: navy;
+}
+
 /*Who am I ?*/
 p1{
   color:green;
@@ -51,4 +57,33 @@ p2{
 
 p3{
   color:orange;
+}
+
+/*--------------- Section 2 -------------------*/
+
+.portfolio-caption h5{
+  color: navy;
+}
+.portfolio-caption p{
+  color: orange;
+}
+
+/*-------------- Section 3 -----------------------*/
+
+.timeline .timeline-heading h4 {
+  color: blue;
+}
+
+.timeline .timeline-body p{
+  color: red;
+}
+
+/*--------------- Section 4 -----------------------*/
+
+.team-member h4 {
+  color: purple;
+}
+
+.team-member p {
+  color: blue;
 }
